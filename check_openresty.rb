@@ -1,6 +1,6 @@
 #!/bin/env ruby
 
-#require 'rubygems'
+require 'rubygems'
 require 'net/http'
 require 'net/https'
 require 'json'
